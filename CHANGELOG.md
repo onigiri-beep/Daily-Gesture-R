@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.15-beta]
+## [0.1.16-beta]
 
 # **English:**
 🎨 Daily Gesture — What's new?
